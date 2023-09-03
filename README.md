@@ -18,3 +18,9 @@ Additionally, As shown in the outer README, the coaxial rotor design could be ad
 ### Detailed design
 <img src="https://github.com/danjulsj/rotor-image-stuff/blob/main/Capture18.PNG"/>
 
+
+
+
+
+Little video to show how it's supposed to work:
+https://youtu.be/HArNuuvok8Q
