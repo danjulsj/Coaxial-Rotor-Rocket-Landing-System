@@ -8,7 +8,9 @@ https://github.com/danjulsj/Coaxial-Rotor-Rocket-Landing-System/tree/main/How%20
 ### In action
 <img src="https://github.com/danjulsj/rotor-image-stuff/blob/main/hires_coldlanding.jpg"/>
 
+### Self returning rocket
 <img src="https://github.com/danjulsj/rotor-image-stuff/blob/main/mobile.jpg"/>
+
 
 ## Overview
 The most valuable part of a rocket launch is the booster, which can be reused for future relaunches. In current rocket landings, the boosters are ignited to slow and land the rocket, risking damage to the entire structure while using a decent amount of fuel. Although the percentage of total fuel used in landing is relatively low with respect to the total fuel load, when put into scale of the total fuel load, however, the amount of fuel is really not that small. As an alternative, this design takes advantage of the principle of autorotation found mostly in unpowered helicopter landings, using natural airflow around the craft and its potential energy to land. This reduces potential damage to the boosters and allows more rocket parts to be reused rapidly after landing and recovery, in turn reducing costs for space travel.
