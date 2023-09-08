@@ -6,7 +6,7 @@ Below is an overview of an idea for an alternative to SpaceX's propulsion-landed
 https://github.com/danjulsj/Coaxial-Rotor-Rocket-Landing-System/tree/main/How%20it%20works
 
 ### In action
-<img src="https://github.com/danjulsj/rotor-image-stuff/blob/main/hires_coldlanding.jpg"/>
+<img src="https://github.com/danjulsj/rotor-image-stuff/blob/main/hires_coldlanding2.jpg"/>
 
 ### Self returning rocket
 <img src="https://github.com/danjulsj/rotor-image-stuff/blob/main/mobile.jpg"/>
