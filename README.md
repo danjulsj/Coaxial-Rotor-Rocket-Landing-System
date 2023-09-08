@@ -8,6 +8,9 @@ https://github.com/danjulsj/Coaxial-Rotor-Rocket-Landing-System/tree/main/How%20
 ### In action
 <img src="https://github.com/danjulsj/rotor-image-stuff/blob/main/hires_coldlanding2.jpg"/>
 
+<img src="https://github.com/danjulsj/rotor-image-stuff/blob/main/hires_coldlanding3.jpg"/>
+
+
 ### Self returning rocket
 <img src="https://github.com/danjulsj/rotor-image-stuff/blob/main/mobile.jpg"/>
 
