@@ -3,7 +3,7 @@
 Below is an overview of an idea for an alternative to SpaceX's propulsion-landed Falcon series of rockets. We thought about what problems could be solved to make space travel more efficient. Essentially, our question was why blast your way down when you've already blasted your way up? 
 
 ## Interplanetary transportation application for cold landing rocket
-<img src="https://github.com/danjulsj/rotor-image-stuff/blob/main/fullConceptSpaceZ.png"/>
+<img src="https://github.com/danjulsj/rotor-image-stuff/blob/main/Screenshot%202023-09-30%20230823.png"/>
 
 
 ## How it works
