@@ -5,6 +5,9 @@ Below is an overview of an idea for an alternative to SpaceX's propulsion-landed
 ## Interplanetary transportation application for cold landing rocket
 <img src="https://github.com/danjulsj/rotor-image-stuff/blob/main/Screenshot%202023-09-30%20230823.png"/>
 
+## Lunar base for interplanetary slingshot
+<img src="https://github.com/danjulsj/rotor-image-stuff/blob/main/Screenshot%202023-09-30%20231024.png"/>
+
 
 ## How it works
 https://github.com/danjulsj/Coaxial-Rotor-Rocket-Landing-System/tree/main/How%20it%20works
