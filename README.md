@@ -8,9 +8,8 @@ Below is an overview of an idea for an alternative to SpaceX's propulsion-landed
 ## Lunar base for interplanetary slingshot
 <img src="https://github.com/danjulsj/rotor-image-stuff/blob/main/Screenshot%202023-09-30%20231024.png"/>
 
-
-## How it works
-https://github.com/danjulsj/Coaxial-Rotor-Rocket-Landing-System/tree/main/How%20it%20works
+###Little video to show how it's supposed to work:
+https://youtu.be/HArNuuvok8Q
 
 ### In action
 <img src="https://github.com/danjulsj/rotor-image-stuff/blob/main/hires_coldlanding2.jpg"/>
@@ -39,6 +38,3 @@ Additionally, As shown in the outer README, the coaxial rotor design could be ad
 ### Alternative idea 
 Isolating only the boosters for recovery if rocket is too heavy:
 <img src="https://github.com/danjulsj/rotor-image-stuff/blob/main/Capture23.PNG"/>
-
-Little video to show how it's supposed to work:
-https://youtu.be/HArNuuvok8Q
