@@ -8,6 +8,10 @@ Below is an overview of an idea for an alternative to SpaceX's propulsion-landed
 ## Lunar base for interplanetary slingshot
 <img src="https://github.com/danjulsj/rotor-image-stuff/blob/main/Screenshot%202023-09-30%20231024.png"/>
 
+### GIF showing a tour of the system
+<img src="https://github.com/danjulsj/rotor-image-stuff/blob/main/GifMaker_20231016225802092.gif"/>
+
+
 ###Little video to show how it's supposed to work:
 https://youtu.be/HArNuuvok8Q
 
