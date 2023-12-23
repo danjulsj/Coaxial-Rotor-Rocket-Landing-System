@@ -13,6 +13,9 @@ Hot Landings:
        - Propulsion-based landings are pose explosion hazard to surrounding environment in case of failure
        - Rockets must be manually retrieved
 - Landings can cause damage to boosters due to extreme heat
+- At scale:
+       - Could be implemented on a large scale, but
+       - Too wasteful of resources to maintain a space program in the long run.
 
 Cold Landings:
 - What it is:
@@ -28,4 +31,7 @@ Cold Landings:
        - Less hazard to surrounding environment: no explosions
        - Rockets, if still operational, can autonomously (or remote controlled) fly back to specific location
 - Little risk of damage to boosters as no re-firing of boosters
+- At scale:
+       - Easily implemented on a large scale
+       - Reduces amount of resources used (fuel, rockets), more sustainable in the long run
 
