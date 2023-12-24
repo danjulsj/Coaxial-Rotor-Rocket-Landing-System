@@ -35,3 +35,7 @@ Cold Landings:
        - Easily implemented on a large scale
        - Reduces amount of resources used (fuel, rockets), more sustainable in the long run
 
+
+
+# So why cold landings?
+Because hot landings aren't sustainable. At this point in developing a large-scale space program, whether that be establishing human colonies on other planets or just space exploration, we need to be thinking about ways we can cut costs. If we can't afford launching hundreds of rockets per year now, how can we afford launching hundreds of rockets per year in the future if we don't change our ways? 
