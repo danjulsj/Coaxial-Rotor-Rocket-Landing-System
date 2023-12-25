@@ -18,4 +18,5 @@ Let's say we want to put another kg of payload into space:
 - More fuel to bring the more fuel
 
 This is a positive feedback loop of adding momre fuel and adding more on top of that. To some extent, this method will work but in the long term the fuel usage versus theoretical payload weight ratio would be untenable. The size of the rocket has to be limited to something vastly smaller than Starship in order to have a sustainable space program.
-We've seen prime examples of how bigger isn't always better. Let's start with the infamous Tiger 1 tank. Early in its introduction, it was a nigh-indestructible vehicle with frontal armor outclassing any Allied weaponry at the time. However, 
+
+We've seen prime examples of how bigger isn't always better. Let's start with the KV-2 tank. Sure, sticking bigger guns on tanks was the optimal strategy at the time and a frickin massive gun was definitely bigger, but the overall design was untenable. It's unreliable chassis issue (from the KV-1) was only worsened by an even heavier turret, 
