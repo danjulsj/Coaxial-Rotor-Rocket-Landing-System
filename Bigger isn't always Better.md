@@ -31,16 +31,16 @@ Lastly, the proposed (but never made nor adopted nor accepted nor even considere
 
 One torpedo hit would sink the thing.
 
-Some issues in no particular order: 
-Firstly, it would probably split in two due to the massive strain on the midship structure. If the ship didn't already buckle upon itself, that torpedo would. 
-Secondly, it would be a massive and easy target for any allied plane 
-Thirdly, it's theoretically, physically, and literally impossible for a submarine-launched torpedo to miss, and it has no torpedo protection. 
-Fourthly, it wouldn't be able to move because it's so heavy, let alone turn. 
-Fifthly, it would completely deplete all financial and natural resources its country had. 
-Sixthly, it's impossible to service or repair since no drydock can hold it. 
-Seventhly, it's impossible to build, also because no drydock can hold it. 
-Eighthly, One broadside salvo would send the thing upside down. 
-Ninthly, why? 
+Some issues in no particular order: <br />
+Firstly, it would probably split in two due to the massive strain on the midship structure. If the ship didn't already buckle upon itself, that torpedo would. <br />
+Secondly, it would be a massive and easy target for any allied plane <br />
+Thirdly, it's theoretically, physically, and literally impossible for a submarine-launched torpedo to miss, and it has no torpedo protection. <br />
+Fourthly, it wouldn't be able to move because it's so heavy, let alone turn. <br />
+Fifthly, it would completely deplete all financial and natural resources its country had. <br />
+Sixthly, it's impossible to service or repair since no drydock can hold it. <br />
+Seventhly, it's impossible to build, also because no drydock can hold it. <br />
+Eighthly, One broadside salvo would send the thing upside down. <br />
+Ninthly, why? <br />
 
 ## So... Bigger is not always better.
 
