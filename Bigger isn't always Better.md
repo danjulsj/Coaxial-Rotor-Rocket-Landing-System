@@ -28,18 +28,19 @@ Next, lets look at the famous Yamato-class battleships. Largest battleships with
 
 ### whatever this thing would be called
 Lastly, the proposed (but never made nor adopted nor accepted nor even considered) 500,000 ton super-dreadnought: 609 meters long, 91 meters wide, super heavily armored (not as much as the Yamato but still pretty dang heavy), super heavily armed (100 16-inch guns, 100 14cm secondary guns, 100 10cm secondary guns, 100 61cm torpedo tubes). This thing would probably steamroll all allied and axis battleships combined. That is, if it were even plausible or reasonable to begin constructing. 
-- one torpedo hit would sink the thing.
 
-Some issues in no particular order:
-Firstly, it would probably split in two due to the massive strain on the midship structure. If the ship didn't already buckle upon itself, that torpedo would.
-Secondly, it would be a massive and easy target for any allied plane
-Thirdly, it's theoretically, physically, and literally impossible for a submarine-launched torpedo to miss, and it has no torpedo protection.
-Fourthly, it wouldn't be able to move because it's so heavy, let alone turn.
-Fifthly, it would completely deplete all financial and natural resources its country had.
-Sixthly, it's impossible to service or repair since no drydock can hold it.
-Seventhly, it's impossible to build, also because no drydock can hold it.
-Eighthly, One broadside salvo would send the thing upside down.
-Ninthly, why?
+One torpedo hit would sink the thing.
+
+Some issues in no particular order: 
+Firstly, it would probably split in two due to the massive strain on the midship structure. If the ship didn't already buckle upon itself, that torpedo would. 
+Secondly, it would be a massive and easy target for any allied plane 
+Thirdly, it's theoretically, physically, and literally impossible for a submarine-launched torpedo to miss, and it has no torpedo protection. 
+Fourthly, it wouldn't be able to move because it's so heavy, let alone turn. 
+Fifthly, it would completely deplete all financial and natural resources its country had. 
+Sixthly, it's impossible to service or repair since no drydock can hold it. 
+Seventhly, it's impossible to build, also because no drydock can hold it. 
+Eighthly, One broadside salvo would send the thing upside down. 
+Ninthly, why? 
 
 ## So... Bigger is not always better.
 
