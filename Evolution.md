@@ -27,4 +27,9 @@ Like 2.1, this version uses a foam board bent into a hexagon shape, though it is
 
 <img src="https://github.com/danjulsj/rotor-image-stuff/blob/main/IMG_0574.jpg"/>
 
+
+GIF of our first successful flight and landing. Couldn't attempt any longer or higher due to unpredictable winds:
+
+<img src="https://github.com/danjulsj/rotor-image-stuff/blob/main/VideoToGif-240303-223656.gif"/>
+
 We used magnets to hold the drone instead of strapping it to the rocket body which proved useful in certain situations, namely little to no wind. Following our flight tests, we decided that this static magnet wouldn't work since it could not withstand wind. Now, the drone is attached to the body by a free-moving magnet. In other words, it's holding the body with a magnet that isn't static on the drone. This works wonders for stability and landing (at least at this scale; maybe won't work on a massive real rocket? idk) and allows the body to detach in case of strong winds that would otherwise slam the drone into the ground. Tests have yet to be carried out but will probably be soon.
