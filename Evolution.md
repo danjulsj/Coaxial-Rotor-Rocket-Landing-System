@@ -36,4 +36,5 @@ We used magnets to hold the drone instead of strapping it to the rocket body whi
 
 
 In latest test, we swapped the magnets for a rod stabilizing system that holds the drone in place while allowing the rocket to have relatively free range of motion. 
-Video: https://youtube.com/shorts/GvKvgGlo97E?feature=share
+Video of v2.2 landing: https://youtube.com/shorts/GvKvgGlo97E?feature=share
+Video of v2.1 landing: https://youtube.com/shorts/bxJApt1U5vM?feature=share
